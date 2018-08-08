@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="CicloEscolarWS">
+      <implementation-class>com.matersys.escuelaapp.ws.CicloEscolarWS</implementation-class>
+    </service>
+    <service name="AsignaturaWS">
+      <implementation-class>com.matersys.escuelaapp.ws.AsignaturaWS</implementation-class>
+    </service>
+    <service name="AsignacionesProfesWS">
+      <implementation-class>com.matersys.escuelaapp.ws.AsignacionesProfesWS</implementation-class>
+    </service>
+    <service name="AppProfesorWS">
+      <implementation-class>com.matersys.escuelaapp.ws.AppProfesorWS</implementation-class>
+    </service>
+    <service name="AppPadreTutorWS">
+      <implementation-class>com.matersys.escuelaapp.ws.AppPadreTutorWS</implementation-class>
+    </service>
+    <service name="AlumnoWS">
+      <implementation-class>com.matersys.escuelaapp.ws.AlumnoWS</implementation-class>
+    </service>
+    <service name="GrupoWS">
+      <implementation-class>com.matersys.escuelaapp.ws.GrupoWS</implementation-class>
+    </service>
+    <service name="PadretutorWS">
+      <implementation-class>com.matersys.escuelaapp.ws.PadretutorWS</implementation-class>
+    </service>
+    <service name="GeneralWS">
+      <implementation-class>com.matersys.escuelaapp.ws.GeneralWS</implementation-class>
+    </service>
+    <service name="ProfesorWS">
+      <implementation-class>com.matersys.escuelaapp.ws.ProfesorWS</implementation-class>
+    </service>
+    <service name="UsuarioWS">
+      <implementation-class>com.matersys.escuelaapp.ws.UsuarioWS</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
