@@ -27,7 +27,8 @@ public class EventosDeMouse {
         frame.setVisible(true);
         frame.setLocation(200, 200);
         frame.setSize(300, 300);
-        frame.add(boton);
+        frame.getContentPane().add(boton);
+        
         boton.addMouseListener(new MouseAdapter() {
             public void mouseClicked(MouseEvent e) {
                 System.out.println(".mouseClicked()");
@@ -35,13 +36,14 @@ public class EventosDeMouse {
             }
             
         });
-        
         frame.addWindowListener(new WindowAdapter() {
             @Override
            public void windowClosing(WindowEvent e) {
                System.exit(0);
            }
         });
+        frame.pack();
+        
     }
     
 }
