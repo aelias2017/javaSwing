@@ -3,5 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group/>
+        <group name="javaSwing">
+            <file>file:/home/aelias/javaSwing/EscuelaWS/escuelaws/src/java/com/matersys/escuelaapp/ws/UsuarioWS.java</file>
+            <file>file:/home/aelias/javaSwing/EscuelaWS/escuelaws/src/java/com/matersys/escuelaapp/ws/AlumnoWS.java</file>
+            <file>file:/home/aelias/javaSwing/EscuelaWS/escuelaws/src/java/com/matersys/escuelaapp/assambler/UsuarioAssembler.java</file>
+            <file>file:/home/aelias/javaSwing/EscuelaWS/escuelaws/src/java/com/matersys/escuelaapp/ws/AppPadreTutorWS.java</file>
+            <file>file:/home/aelias/javaSwing/EscuelaWS/escuelaws/src/java/com/matersys/escuelaapp/util/EscuelaAppWSClass.java</file>
+            <file>file:/home/aelias/javaSwing/EscuelaWS/escuelaws/src/java/com/matersys/escuelaapp/util/EscuelaAppUtil.java</file>
+            <file>file:/home/aelias/javaSwing/EscuelaWS/escuelaws/src/java/com/matersys/escuelaapp/ws/ProfesorWS.java</file>
+        </group>
     </open-files>
 </project-private>
