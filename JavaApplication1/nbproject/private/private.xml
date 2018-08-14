@@ -5,5 +5,9 @@
         <group>
             <file>file:/Users/alejandroelias/NetBeansProjects/JavaApplication1/src/javaapplication1/JavaApplication1.java</file>
         </group>
+        <group name="javaSwing">
+            <file>file:/home/aelias/javaSwing/JavaApplication1/src/revision/Menus.java</file>
+            <file>file:/home/aelias/javaSwing/JavaApplication1/src/revision/Texto.java</file>
+        </group>
     </open-files>
 </project-private>
